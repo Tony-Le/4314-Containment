@@ -1,0 +1,16 @@
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/AbstractProjectComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/OldComponentConfig.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ServiceDescriptor.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ServiceManager.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ApplicationComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/RoamingType.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ExtensionAreas.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ComponentManager.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ProjectComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ExportableComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ServiceBean.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/NamedComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/BaseComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/Service.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ExportableApplicationComponent.java
+intellij-community-idea-192.6603.8/platform/core-api/src/com/intellij/openapi/components/ComponentConfig.java
